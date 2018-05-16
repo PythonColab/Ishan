@@ -1,0 +1,6 @@
+x=int(input("Enter the value:"))
+y=int(input("Enter the value:"))
+z=int(input("Enter the value:"))
+print("maximum is:")
+print (max(x,y,z))
+input("please press enter to exit")
