@@ -1,0 +1,1 @@
+fp = open ("E:\documents\python\Ishan\dictionary.py","r+")
